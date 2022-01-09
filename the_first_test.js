@@ -67,3 +67,8 @@ console.log(harry)
 let field = 'Age'
 harrysAge = harry[field.toLowerCase()]
 console.log('wat', harrysAge)
+
+let numbers = [1, 200, 3000, 'many']
+console.log(numbers[3])
+numbers[7] =  "numba7"
+console.log(numbers)
